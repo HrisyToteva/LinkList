@@ -1,0 +1,5 @@
+C:\Users\PC\source\repos\LinkedListProject\LinkedListProject\bin\Release\netcoreapp3.1\publish\LinkedListProject.exe
+C:\Users\PC\source\repos\LinkedListProject\LinkedListProject\bin\Release\netcoreapp3.1\publish\LinkedListProject.dll
+C:\Users\PC\source\repos\LinkedListProject\LinkedListProject\bin\Release\netcoreapp3.1\publish\LinkedListProject.deps.json
+C:\Users\PC\source\repos\LinkedListProject\LinkedListProject\bin\Release\netcoreapp3.1\publish\LinkedListProject.runtimeconfig.json
+C:\Users\PC\source\repos\LinkedListProject\LinkedListProject\bin\Release\netcoreapp3.1\publish\LinkedListProject.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DgArxHwC/4vbEADHe+68XYUohHzrcP9M6ZfJj0/HQ5fP1xE8KrIZYD1II8q3NBEtdLGCVWbFl1k6IAgnTKfg1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\LinkedListProject\\LinkedListProject\\LinkedListProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
