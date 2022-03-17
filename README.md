@@ -2,6 +2,7 @@
 ## Technologies
 - C#
 - .Net Core 3.1 (Console Application)
+- WindowsForms
 ## Run the program in a terminal 
 -Navigate to the project folder
 - project folder.\LinkedListProject\LinkedListProject\bin\Release\netcoreapp3.1\publish\LinkedListProject.exe
