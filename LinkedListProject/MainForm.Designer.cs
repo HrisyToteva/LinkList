@@ -57,14 +57,14 @@ namespace LinkedListProject
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(205, 79);
+            this.textBox2.Location = new System.Drawing.Point(216, 79);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(32, 23);
             this.textBox2.TabIndex = 2;
             // 
             // buttonDisplayElement
             // 
-            this.buttonDisplayElement.Location = new System.Drawing.Point(254, 78);
+            this.buttonDisplayElement.Location = new System.Drawing.Point(265, 79);
             this.buttonDisplayElement.Name = "buttonDisplayElement";
             this.buttonDisplayElement.Size = new System.Drawing.Size(75, 23);
             this.buttonDisplayElement.TabIndex = 3;
@@ -74,7 +74,7 @@ namespace LinkedListProject
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(346, 78);
+            this.textBox3.Location = new System.Drawing.Point(356, 79);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(37, 23);
             this.textBox3.TabIndex = 4;
@@ -85,9 +85,9 @@ namespace LinkedListProject
             this.label1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(34, 39);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(141, 15);
+            this.label1.Size = new System.Drawing.Size(157, 15);
             this.label1.TabIndex = 5;
-            this.label1.Text = "Add element to the List:";
+            this.label1.Text = "Add an element to the List:";
             // 
             // label2
             // 
@@ -95,9 +95,9 @@ namespace LinkedListProject
             this.label2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(34, 83);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(165, 15);
+            this.label2.Size = new System.Drawing.Size(181, 15);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Which index to be displayed:";
+            this.label2.Text = "Which element to be displayed:";
             // 
             // MainForm
             // 
